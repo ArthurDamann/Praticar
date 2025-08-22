@@ -1,3 +1,5 @@
+import random
+
 x = "Gremio"
 
 def funcao():
@@ -14,3 +16,6 @@ print(type(x))
 
 y = int(x)
 print(y)
+
+teste = random.randint(1, 10)
+print(teste)
