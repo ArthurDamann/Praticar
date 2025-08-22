@@ -10,8 +10,6 @@ k = "kelly"
 if x > y:
     print("x is greater than y")
 
-
-
 print(j)
 print(k)
 
